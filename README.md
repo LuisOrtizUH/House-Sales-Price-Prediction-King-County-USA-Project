@@ -2,7 +2,7 @@
 
 <p float="left">
     <img src="https://images.credly.com/size/680x680/images/d9ab365d-7897-4973-a764-8acf6c277570/Coursera_20IBM_20Data_20Analyst_20Prof_20Cert_20V3.png" width="300" />
-    <img src="" width="300" />
+    <img src="https://raw.githubusercontent.com/Willie-Conway/House-Sales-Price-Prediction-King-County-USA-Project/refs/heads/main/Screenshots/House%20Sales%20Price%20Prediction.png?token=GHSAT0AAAAAADRSACXGMHZD7DN5OXWQHD2Q2LIVKWQ" width="300" />
 </p>
 
 ![Data Analysis with Python](https://img.shields.io/badge/IBM-Data_Analysis_with_Python-0072CE?style=for-the-badge&logo=ibm)
