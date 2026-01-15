@@ -1,5 +1,10 @@
 # 🏠 House Sales Price Prediction - King County, USA
 
+<p float="left">
+    <img src="https://images.credly.com/size/680x680/images/d9ab365d-7897-4973-a764-8acf6c277570/Coursera_20IBM_20Data_20Analyst_20Prof_20Cert_20V3.png" width="300" />
+    <img src="" width="300" />
+</p>
+
 ![Data Analysis with Python](https://img.shields.io/badge/IBM-Data_Analysis_with_Python-0072CE?style=for-the-badge&logo=ibm)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-01D277?style=for-the-badge&logo=tensorflow&logoColor=white)
